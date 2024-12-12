@@ -38,6 +38,7 @@ export const s = StyleSheet.create({
     flexDirection: "row",
     gap: 7,
     marginTop: 10,
+    alignItems: "center",
   },
   tickets: {
     fontSize: 12,
